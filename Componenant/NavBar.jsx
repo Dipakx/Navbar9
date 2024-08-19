@@ -7,7 +7,7 @@
       <>
         <div className="Navigation">
           <NavLink to="/">
-            <h1> Portfolio </h1>
+            <h1> Portfolio change made </h1>
           </NavLink>
           <ul className="Nav-Menu">
             <li>
