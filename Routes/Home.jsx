@@ -1,11 +1,12 @@
 import React from "react";
 import NavBar from "../Componenant/NavBar";
+// import HeroImage from "../Componenant/HeroImage";
 
 function Home() {
   return (
     <div>
       <NavBar />
-      This is home page
+      {/* <HeroImage/> */}
     </div>
   );
 }
